@@ -3,9 +3,8 @@
 # 
 # ==================================================
 
-GitUser="syapik96"
-#wget https://github.com/${GitUser}/
-
+GitUser="mmcooke1"
+#wget https://github.com/mmcooke1/
 # initializing var
 export DEBIAN_FRONTEND=noninteractive
 MYIP=$(wget -qO- icanhazip.com);
